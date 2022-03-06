@@ -11,3 +11,6 @@ unidade03 - css externo, css incorporado e css inline.
 
 unidade04 - fontes, formatação de texto e espaçamento.
 
+unidade05 - controles de cores e background: box models, margins e padding, borders, background, shadow e gradients.
+
+unidade06 - layout da páginas
