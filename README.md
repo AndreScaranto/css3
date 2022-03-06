@@ -7,3 +7,7 @@ unidade01 - apresentação do curso, software necessário, exercícios limpos.
 
 unidade02 - fundamentos
 
+unidade03 - css externo, css incorporado e css inline.
+
+unidade04 - fontes, formatação de texto e espaçamento.
+
