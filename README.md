@@ -13,4 +13,10 @@ unidade04 - fontes, formatação de texto e espaçamento.
 
 unidade05 - controles de cores e background: box models, margins e padding, borders, background, shadow e gradients.
 
-unidade06 - layout da páginas
+unidade06 - layout da páginas - em e percentual para largura. Float e clear. Páginas em colunas.
+
+unidade07 - Posicionamentos - static, relative, absolute e fixed positioning. z-index, clip e overflow.
+
+unidade08 - Layout fixo - histórico, vantagens e desvantagens. Exemplo de montagem de grid em layout fixo.
+
+unidade09 - Layout flexível
