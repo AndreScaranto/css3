@@ -1,10 +1,8 @@
 # css3
 Estudo de CSS3
-<p>
-    <img scr="imagens/CSS3_logo_and_wordmark.svg" style="height:100px;">
-</p>
+<img scr="imagens/CSS3_logo_and_wordmark.svg" style="height:50px; align:center">
 
-![CSS logomarca](imagens/CSS3_logo_and_wordmark.svg)
+
 
 Com base no [Curso Desenvolvedor Web Completo + 10 projetos](https://www.udemy.com/course/curso-desenvolvedor-web-completo/learn/lecture/7980550?start=0#overview) do professor André Fontenelli, Curso II que trata de CSS3: 
 
